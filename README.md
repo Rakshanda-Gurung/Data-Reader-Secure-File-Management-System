@@ -1,4 +1,4 @@
-# Data-Reader---Secure-File-Management-System
+# Data-Reader (Secure-File-Management-System)
  
 Data Reader  is a Streamlit-based web application that enables users to securely manage and preview files using PIN-based protection. The application supports full CRUD operations, file searching, and basic image editing, making it a complete and user-friendly file management solution.
 
